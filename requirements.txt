@@ -1,0 +1,5 @@
+cvzone==1.5.6
+mediapipe==0.10.15
+opencv-python==4.8.1.78
+tensorflow==2.13.0
+pyautogui==0.9.54
